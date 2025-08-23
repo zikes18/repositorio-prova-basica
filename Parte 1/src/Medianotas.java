@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class medianotas {
+public class Medianotas {
     public static void main(String[] args) throws Exception {
         double nota1, nota2, nota3,nota4, media;
         Scanner sc = new Scanner(System.in);
