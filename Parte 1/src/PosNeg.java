@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class posNeg {
+public class PosNeg {
     public static void main(String[] args) throws Exception {
         int numero;
         Scanner sc = new Scanner(System.in);
