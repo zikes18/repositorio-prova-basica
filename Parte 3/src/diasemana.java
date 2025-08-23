@@ -1,4 +1,4 @@
-public class diasemana {
+public class Diasemana {
     public static void main(String[] args) {
         int dia;
         java.util.Scanner sc = new java.util.Scanner(System.in);

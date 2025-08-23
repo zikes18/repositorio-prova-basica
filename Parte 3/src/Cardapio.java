@@ -6,22 +6,22 @@ public class Cardapio {
         int opcao;
         do {
             System.out.println("\n--- Menu da Lanchonete ---");
-            System.out.println("1. Hambúrguer");
-            System.out.println("2. Pizza");
-            System.out.println("3. Refrigerante");
+            System.out.println("1. Pão de queijo");
+            System.out.println("2. Pão");
+            System.out.println("3. Salgado");
             System.out.println("4. Sair");
             System.out.print("Escolha uma opção: ");
             opcao = tec.nextInt();
 
             switch (opcao) {
                 case 1:
-                    System.out.println("Você escolheu Hambúrguer.");
+                    System.out.println("Você escolheu Pão de queijo.");
                     break;
                 case 2:
-                    System.out.println("Você escolheu Pizza.");
+                    System.out.println("Você escolheu Pão.");
                     break;
                 case 3:
-                    System.out.println("Você escolheu Refrigerante.");
+                    System.out.println("Você escolheu Salgado.");
                     break;
                 case 4:
                     System.out.println("Saindo do cardápio. Obrigado!");
