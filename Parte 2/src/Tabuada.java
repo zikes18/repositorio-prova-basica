@@ -1,4 +1,4 @@
-public class tabuada {
+public class Tabuada {
     public static void main(String[] args) {
         int numero;
         System.out.println("Tabuada de multiplicação de 1 a 10 para o numero digitado:");
