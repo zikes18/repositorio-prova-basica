@@ -1,4 +1,4 @@
-public class numprimo {
+public class Numprimo {
     public static void main(String[] args) {
         int numero;
         boolean isPrimo = true;
