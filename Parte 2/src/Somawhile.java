@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class somawhile {
+public class Somawhile {
     public static void main(String[] args) {
         // Soma com while: Peça números ao usuário e some-os até que ele digite 0. No final, mostre a soma total.
         Scanner sc = new Scanner(System.in);
