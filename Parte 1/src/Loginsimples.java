@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class loginsimples {
+public class Loginsimples {
     public static void main(String[] args) throws Exception {
         String usuario, senha;
         Scanner sc = new Scanner(System.in);
