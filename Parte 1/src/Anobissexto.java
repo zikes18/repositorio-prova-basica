@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class anobissexto {
+public class Anobissexto {
     public static void main(String[] args) throws Exception {
         int ano;
         Scanner sc = new Scanner(System.in);
