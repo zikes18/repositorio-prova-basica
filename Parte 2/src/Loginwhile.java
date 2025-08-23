@@ -1,4 +1,4 @@
-public class loginwhile {
+public class Loginwhile {
     public static void main(String[] args) {
         String senha;
         java.util.Scanner sc = new java.util.Scanner(System.in);
