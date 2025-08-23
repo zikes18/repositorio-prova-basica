@@ -1,4 +1,4 @@
-public class adivinhenumero {
+public class Adivinhenumero {
     public static void main(String[] args) {
 
         int numeroSecreto = (int) (Math.random() * 100) + 1;
