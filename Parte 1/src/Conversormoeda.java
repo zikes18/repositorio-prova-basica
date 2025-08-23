@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class conversormoeda {
+public class Conversormoeda {
 
     public static void main(String[] args) throws Exception {
         double valorDolar, valorReal, cotacao=5.41;
