@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class parimpar {
+public class Parimpar {
     public static void main(String[] args) throws Exception {
         int numero;
         Scanner sc = new Scanner(System.in);
