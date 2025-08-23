@@ -1,4 +1,4 @@
-public class fibonacci {
+public class Fibonacci {
     public static void main(String[] args) {
         int n1 = 0, n2 = 1, n3, numero;
         System.out.println("Digite a quantidade de termos da sequência de Fibonacci:");
