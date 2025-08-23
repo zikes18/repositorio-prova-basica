@@ -1,4 +1,4 @@
-public class contagem10 {
+public class Contagem10 {
     public static void main(String[] args) {
         int i=0;
         while (i <= 10) {
