@@ -1,4 +1,4 @@
-public class maiormenor {
+public class Maiormenor {
     public static void main(String[] args) {
         int numero, maior, menor;
         System.out.println("Digite números para encontrar o maior e o menor (digite 0 para finalizar):");
