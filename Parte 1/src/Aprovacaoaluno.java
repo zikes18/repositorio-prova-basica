@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class aprovacaoaluno {
+public class Aprovacaoaluno {
     public static void main(String[] args) throws Exception {
         double nota1, nota2, media;
         Scanner sc = new Scanner(System.in);
