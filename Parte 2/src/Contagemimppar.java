@@ -1,4 +1,4 @@
-public class contagemimppar {
+public class Contagemimppar {
     public static void main(String[] args) {
         int numero,pares=0,impares=0;
         java.util.Scanner sc = new java.util.Scanner(System.in);
