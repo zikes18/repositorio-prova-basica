@@ -1,4 +1,4 @@
-public class fatorial {
+public class Fatorial {
     public static void main(String[] args) {
         int numero;
         int fatorial = 1;
